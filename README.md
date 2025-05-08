@@ -1,9 +1,10 @@
 # Obsidian2Anki
 
 Export obsidian note to anki card efficiently
-![image](https://github.com/user-attachments/assets/323112b3-0257-4c76-ae60-fd958c388b0a)
 
-![image](https://github.com/user-attachments/assets/bd772326-8ba2-4907-b692-5247182284e4)
+<img src="https://github.com/user-attachments/assets/323112b3-0257-4c76-ae60-fd958c388b0a" width="400px">
+
+<img src="https://github.com/user-attachments/assets/bd772326-8ba2-4907-b692-5247182284e4" width="400px">
 
 - [x] support the h4+ and the content.
 - [x] support dark mode. 
